@@ -7,5 +7,7 @@ Projekt będzie zbudowany na platformie arduino UNO, a komunikacja wifi będzie 
 Db diagram:
 <iframe width="560" height="315" src='https://dbdiagram.io/embed/60583065ecb54e10c33c8e32'> </iframe>
 
+https://dbdiagram.io/embed/60583065ecb54e10c33c8e32
+
 LINK do listy elementów:
 https://docs.google.com/spreadsheets/d/1kxy9I-g9Q_NdTyfCT67b4c6HRwbB3Ju5-OLuap8rChM/edit?usp=sharing
